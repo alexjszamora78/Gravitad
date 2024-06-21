@@ -556,7 +556,7 @@ ArimaTP.run(file_csv,name_columna)
 
 
 
-En mi caso mi archivo csv se llama [datos.csv](datos.csv) y mi columna de valores se llama **TrafficCount** por lo que mi código quedaría estructurado así:
+En mi caso mi archivo csv se llama [datos.csv](https://github.com/alexjszamora78/Gravitad/blob/main/resources/datos.csv) y mi columna de valores se llama **TrafficCount** por lo que mi código quedaría estructurado así:
 
 
 ```python
@@ -577,7 +577,7 @@ En la salida se obtendrán las fotos de los gráficos de predicciones
 
 
 
-![Output](https://github.com/alexjszamora78/Gravitad/blob/main/resources/output2.png)
+![Output](https://github.com/alexjszamora78/Gravitad/blob/main/resources/output21.png)
 
 
 
