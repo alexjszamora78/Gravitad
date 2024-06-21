@@ -1,7 +1,17 @@
+![Gravitad Logo](resources/logo.png)
 
-# Gravitad
+--------------------------------------------------------------------------------
 
-**Es una librería de código abierto que fusiona la robustez de PyTorch con la precisión de los modelos ARIMA para la predicción de series temporales.  Su chatbot, entrenado con PyTorch, proporciona información personalizada, mientras que su módulo ARIMA ofrece predicciones precisas para diversos campos como finanzas, clima, tráfico, etc.**
+**Gravitad es una librería de código abierto que fusiona la robustez de PyTorch con la precisión de los modelos ARIMA para la predicción de series temporales.  Su chatbot, entrenado con PyTorch, proporciona información personalizada, mientras que su módulo ARIMA ofrece predicciones precisas para diversos campos como finanzas, clima, tráfico, etc.**
+
+<!-- toc -->
+
+- [Version](#version-10)
+- [Crear un Entorno Virtual](#crear-un-entorno-virtual)
+- [Instalar dependencias](#instalar-dependencias-necesarias)
+- [ChatBot](#chatbot)
+	- [Crear Archivo JSON](#chatbot)
+<!-- tocstop -->
 
 ## Versión 1.0
 
@@ -26,6 +36,7 @@ pip install Gravitad
 from Gravitad import ChatBot
 ````
 
+## Crear archivo json
 Se debe crear un archivo config.json con las preguntas y respuestas previamente formuladas para el aprendizaje del modelo
 La estructura de este JSON debe seguir estas pautas
 
