@@ -1,8 +1,11 @@
-![Gravitad Logo](resources/logo.png)
+![Gravitad Logo](resources/logo.jpg)
 
 --------------------------------------------------------------------------------
 
 **Gravitad es una librería de código abierto que fusiona la robustez de PyTorch con la precisión de los modelos ARIMA para la predicción de series temporales.  Su chatbot, entrenado con PyTorch, proporciona información personalizada, mientras que su módulo ARIMA ofrece predicciones precisas para diversos campos como finanzas, clima, tráfico, etc.**
+
+
+### Tabla de Contenido
 
 <!-- toc -->
 
