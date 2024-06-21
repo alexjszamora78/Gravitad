@@ -48,7 +48,7 @@ source env/bin/active
 ## Instalar dependencias necesarias
 
 ```bash
-pip install Gravitad
+pip install Gravitad==1.0.1
 ```
 
 # ChatBot:
