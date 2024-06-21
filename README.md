@@ -14,7 +14,26 @@
 - [Instalar dependencias](#instalar-dependencias-necesarias)
 - [ChatBot](#chatbot)
 	- [Crear Archivo JSON](#chatbot)
+	- [Ejemplo de config.json](#ejemplo-de-configjson)
+	- [Ejecución](#ejecuci%C3%B3n)
+	- [Output](#output)
+	- [¿ Cuándo usar ChatBot como solución para proyectos ?](#cuando)
+	- [Ejemplo proyecto 038](#ejemplo-de-uso-tomando-como-ejemplo-el-proyecto-038)
+	- [Plantilla del JSON](#plantilla-del-json)
+	- [config.json con los datos proporciondos por Scrapping](#ejemplo-del-configjson-con-los-datos-proporciondos-por-el-grupo-de-scrapping)
+	- [Ejecución de la prueba 038](#ejecuci%C3%B3n-de-la-prueba-038)
+	- [Output](#output-1)
+- [Arima Time Predictor (ATP)](#arima-time-predictor-atp)
+	- [Componentes de ARIMA](#arima-tiene-tres-componentes)
+	- [Archivo CSV](#archivo-csv)
+	- [Ejecución](#ejecuci%C3%B3n-1)
+	- [Output](#output-2)
+	- [Parámetros Adicionles](#par%C3%A1metros-adicionales)
+	- [¿ Cuándo usar ArimaTP como solución para proyectos ?](#-cu%C3%A1ndo-usar-arimatp-como-soluci%C3%B3n-para-proyectos-)
+- [Información para Desarrolladores (DEV)](#informaci%C3%B3n-para-desarrolladores-dev)
 <!-- tocstop -->
+
+--------------------------------------------------------------------------------
 
 ## Versión 1.0
 
@@ -187,7 +206,7 @@ response = ChatBot("config.json")
 ![Output](resources/output.png)
 
 
-**¿ Cuándo usar ChatBot como solución para proyectos ?**
+## **¿ Cuándo usar ChatBot como solución para proyectos ?**
 
 * **Servicio de atención al cliente 24/7:** Para responder preguntas frecuentes, resolver problemas básicos, guiar al usuario por el sitio web, recomendar productos, responder preguntas de envíos y devoluciones, etc.
 
