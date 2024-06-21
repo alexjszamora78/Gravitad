@@ -1,4 +1,4 @@
-![Gravitad Logo](resources/logo.jpg)
+![Gravitad Logo](https://github.com/alexjszamora78/Gravitad/blob/main/resources/logo.jpg)
 
 --------------------------------------------------------------------------------
 
@@ -9,28 +9,28 @@
 
 <!-- toc -->
 
-- [Version](#version-10)
-- [Crear un Entorno Virtual](#crear-un-entorno-virtual)
-- [Instalar dependencias](#instalar-dependencias-necesarias)
-- [ChatBot](#chatbot)
-	- [Crear Archivo JSON](#chatbot)
-	- [Ejemplo de config.json](#ejemplo-de-configjson)
-	- [Ejecución](#ejecuci%C3%B3n)
-	- [Output](#output)
-	- [¿ Cuándo usar ChatBot como solución para proyectos ?](#cuando)
-	- [Ejemplo proyecto 038](#ejemplo-de-uso-tomando-como-ejemplo-el-proyecto-038)
-	- [Plantilla del JSON](#plantilla-del-json)
-	- [config.json con los datos proporciondos por Scrapping](#ejemplo-del-configjson-con-los-datos-proporciondos-por-el-grupo-de-scrapping)
-	- [Ejecución de la prueba 038](#ejecuci%C3%B3n-de-la-prueba-038)
-	- [Output](#output-1)
-- [Arima Time Predictor (ATP)](#arima-time-predictor-atp)
-	- [Componentes de ARIMA](#arima-tiene-tres-componentes)
-	- [Archivo CSV](#archivo-csv)
-	- [Ejecución](#ejecuci%C3%B3n-1)
-	- [Output](#output-2)
-	- [Parámetros Adicionles](#par%C3%A1metros-adicionales)
-	- [¿ Cuándo usar ArimaTP como solución para proyectos ?](#-cu%C3%A1ndo-usar-arimatp-como-soluci%C3%B3n-para-proyectos-)
-- [Información para Desarrolladores (DEV)](#informaci%C3%B3n-para-desarrolladores-dev)
+- [Version](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#version-10)
+- [Crear un Entorno Virtual](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#crear-un-entorno-virtual)
+- [Instalar dependencias](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#instalar-dependencias-necesarias)
+- [ChatBot](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#chatbot)
+	- [Crear Archivo JSON](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#chatbot)
+	- [Ejemplo de config.json](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#ejemplo-de-configjson)
+	- [Ejecución](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#ejecuci%C3%B3n)
+	- [Output](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#output)
+	- [¿ Cuándo usar ChatBot como solución para proyectos ?](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#-cu%C3%A1ndo-usar-chatbot-como-soluci%C3%B3n-para-proyectos-)
+	- [Ejemplo proyecto 038](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#ejemplo-de-uso-tomando-como-ejemplo-el-proyecto-038)
+	- [Plantilla del JSON](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#plantilla-del-json)
+	- [config.json con los datos proporciondos por Scrapping](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#ejemplo-del-configjson-con-los-datos-proporciondos-por-el-grupo-de-scrapping)
+	- [Ejecución de la prueba 038](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#ejecuci%C3%B3n-de-la-prueba-038)
+	- [Output](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#output-1)
+- [Arima Time Predictor (ATP)](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#arima-time-predictor-atp)
+	- [Componentes de ARIMA](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#arima-tiene-tres-componentes)
+	- [Archivo CSV](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#archivo-csv)
+	- [Ejecución](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#ejecuci%C3%B3n-1)
+	- [Output](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#output-2)
+	- [Parámetros Adicionles](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#par%C3%A1metros-adicionales)
+	- [¿ Cuándo usar ArimaTP como solución para proyectos ?](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#-cu%C3%A1ndo-usar-arimatp-como-soluci%C3%B3n-para-proyectos-)
+- [Información para Desarrolladores (DEV)](https://github.com/alexjszamora78/Gravitad?tab=readme-ov-file#informaci%C3%B3n-para-desarrolladores-dev)
 <!-- tocstop -->
 
 --------------------------------------------------------------------------------
@@ -203,7 +203,7 @@ response = ChatBot("config.json")
 
 ## **Output**
 
-![Output](resources/output.png)
+![Output](https://github.com/alexjszamora78/Gravitad/blob/main/resources/output.png)
 
 
 ## **¿ Cuándo usar ChatBot como solución para proyectos ?**
@@ -235,7 +235,7 @@ response = ChatBot("config.json")
 
 ## Ejemplo de uso tomando como ejemplo el proyecto 038.
 
-El Objetivo general del [Proyecto 038](resources/Documento038.docx) es Desarrollar una plataforma integral de **análisis predictivo** y experiencia de usuario en comercio electrónico que emplee técnicas avanzadas de recopilación y análisis de datos para **predecir** el comportamiento del usuario, ofrecer recomendaciones personalizadas y mejorar la interacción en el sitio web, optimizando así la navegación y la experiencia de compra para aumentar la satisfacción del cliente y potenciar el rendimiento del comercio electrónico.
+El Objetivo general del [Proyecto 038](https://github.com/alexjszamora78/Gravitad/blob/main/resources/Documento038.docx) es Desarrollar una plataforma integral de **análisis predictivo** y experiencia de usuario en comercio electrónico que emplee técnicas avanzadas de recopilación y análisis de datos para **predecir** el comportamiento del usuario, ofrecer recomendaciones personalizadas y mejorar la interacción en el sitio web, optimizando así la navegación y la experiencia de compra para aumentar la satisfacción del cliente y potenciar el rendimiento del comercio electrónico.
 
 * Se toma en cuenta que lo que se quiere es predecir, pronosticar y una de las posibles soluciones es la utilización del ChatBot
 
@@ -515,9 +515,10 @@ response = ChatBot("config.json")
 
 ## **Output**
 
-![Output](resources/output2.png)
+![Output](https://github.com/alexjszamora78/Gravitad/blob/main/resources/output2.png)
 
 
+--------------------------------------------------------------------------------
 
 
 # Arima Time Predictor (ATP)
@@ -536,7 +537,7 @@ Modelo de Promedio Móvil Integrado Autoregresivo. Es una técnica estadística 
 
 Los archivos CSV (Comma Separated Values) son archivos de texto plano que almacenan datos en forma de tabla. Cada fila representa un registro y cada columna representa un campo, y los valores están separados por comas. 
 
-Aqui le dejo un ejemplo de un [archivo csv](datos.csv) que recoge los datos del tráfico de internet
+Aqui le dejo un ejemplo de un [archivo csv](https://github.com/alexjszamora78/Gravitad/blob/main/resources/datos.csv) que recoge los datos del tráfico de internet
 
 ## Ejecución
 
@@ -551,7 +552,7 @@ ArimaTP.run(file_csv,name_columna)
 * Recuerda sustituir **file_csv** por el nombre de tu archivo csv y **name_table** por el nombre de la columna que contiene los valores de interés
 
 
-![tabla](resources/01.png)
+![tabla](https://github.com/alexjszamora78/Gravitad/blob/main/resources/01.png)
 
 
 
@@ -572,15 +573,15 @@ ArimaTP.run(file_csv,name_columna)
 En la salida se obtendrán las fotos de los gráficos de predicciones
 
 
-![Output](resources/output1.png)
+![Output](https://github.com/alexjszamora78/Gravitad/blob/main/resources/output1.png)
 
 
 
-![Output](resources/output2.png)
+![Output](https://github.com/alexjszamora78/Gravitad/blob/main/resources/output2.png)
 
 
 
-![Output](resources/output3.png)
+![Output](https://github.com/alexjszamora78/Gravitad/blob/main/resources/output3.png)
 
 
 ## Parámetros adicionales
@@ -810,6 +811,6 @@ energía.
 
 ## Información para Desarrolladores (DEV)
 
-* [Aquí pueden ver el código fuente con que fue creado la librería ArimaTP](resources/ArimaTP/main.py)
+* [Aquí pueden ver el código fuente con que fue creado la librería ArimaTP](https://github.com/alexjszamora78/Gravitad/blob/main/resources/ArimaTP/main.py)
 
-* [Aquí pueden ver el código fuente con que fue creado la librería TitanTorch](resources/TitanTorch/main.py)
+* [Aquí pueden ver el código fuente con que fue creado la librería TitanTorch](https://github.com/alexjszamora78/Gravitad/blob/main/resources/TitanTorch/main.py)
