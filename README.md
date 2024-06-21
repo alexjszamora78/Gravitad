@@ -222,6 +222,7 @@ El Objetivo general del [Proyecto 038](resources/Documento038.docx) es Desarroll
 
 * Primeramente se tendría que crear la configuración (JSON) correspondiente pra entrenar al modelo de aprendizaje
 
+## Plantilla del JSON
 ```json
 [
     {
@@ -790,4 +791,6 @@ energía.
 
 ## Información para Desarrolladores (DEV)
 
-* [Aquí pueden ver el código fuente con que fue creado la librería ArimaTP](resources/main.py)
+* [Aquí pueden ver el código fuente con que fue creado la librería ArimaTP](resources/ArimaTP/main.py)
+
+* [Aquí pueden ver el código fuente con que fue creado la librería TitanTorch](resources/TitanTorch/main.py)
